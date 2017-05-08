@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/getgauge/gauge_screenshot",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v76",
+	"Deps": [
+		{
+			"ImportPath": "github.com/AllenDang/w32",
+			"Rev": "08a52ff508c6b2b9b9bf5ee476109b903dcf219d"
+		}
+	]
+}
