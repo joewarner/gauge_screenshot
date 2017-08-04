@@ -1,5 +1,8 @@
 Simple cross-platform pure Go screenshot library. This is used by [Gauge](https://github.com/getgauge/gauge) plugins as a mean to capture screenshot, but can be used standalone nevertheless.
 
+[![Build status](https://ci.appveyor.com/api/projects/status/oqs96qn0ywf4vahx?svg=true)](https://ci.appveyor.com/project/getgauge/gauge-screenshot)
+[![Build Status](https://travis-ci.org/getgauge/gauge_screenshot.svg?branch=master)](https://travis-ci.org/getgauge/gauge_screenshot)
+
 ## Usage
 `gauge_screenshot <file_name>`
 
