@@ -10,7 +10,6 @@ Simple cross-platform pure Go screenshot library. This is used by [Gauge](https:
 `go get github.com/getgauge/gauge_screenshot`
 
 ## Dependencies:
-- Windows: https://github.com/AllenDang/w32
 - Linux/Freebsd: https://github.com/BurntSushi/xgb
 - OSx: `screencapture` :)
 
